@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "StLuke Puzzels",
+"productVersion": "1.0",
+"dataUrl": "StLukePuzzles Web.data.unityweb",
+"wasmCodeUrl": "StLukePuzzles Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "StLukePuzzles Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "StLukePuzzles Web.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.2f1"
+}
